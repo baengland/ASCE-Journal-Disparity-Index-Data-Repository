@@ -22,3 +22,5 @@ The following packages are optional:
 tidyverse - Contains many packages, including readxl and ggplot2, that could better optimize the code. Informaton can be found here: https://www.tidyverse.org/packages/
 
 gridExtra - Allows figures to be placed on a grid, allowing for side-by-side comparison. This package was used in the included code, but is not necessary. Information can be found here: https://cran.r-project.org/web/packages/gridExtra/index.html
+
+The development process for the Disparity Indices was developed by the European Council's Joint Research Centre. More information can be found here https://knowledge4policy.ec.europa.eu/composite-indicators/2021-jrc-week-composite-indicators-scoreboards_en and 
